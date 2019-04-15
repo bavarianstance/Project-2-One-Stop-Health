@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "password",
-    "database": "onestophealth",
+    "database": "iseeyoutoorsql",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
@@ -14,6 +14,7 @@
     "dialect": "mysql"
   },
   "production": {
-      "use_env_variable": "mysql://v7fglgmcj9ucu889:ucoz4igohn878whc@fnx6frzmhxw45qcb.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/f9shnj24g6hkyuxr"
+    "use_env_variable": "mysql://fij1pbynzz9j36kl:qutaz5arfgk2j5xc@vhw3t8e71xdz9k14.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/kuq92xgdqhw2763u",
+    "dialect": "mysql"
   }
 }
