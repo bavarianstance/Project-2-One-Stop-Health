@@ -65,8 +65,12 @@ Okta is a cloud software provider that manages and secures user authentication. 
 
 For more information on Okta, please feel free to visit: https://www.okta.com
 
-# <a name="deployed"> Deployed Site </a>
-Visit our deployed project at: "heroku link here"
+# <a name="Usage"> Usage</a>
+- git clone repo
+- npm install for dependencies
+- edit config.json for your MySQL credentials, ensure MySQL is running
+- node server.js
+- navigate to localhost:8080 to init app
 
 # <a name="authors">Meet the Authors!</a>
 
